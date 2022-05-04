@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* navbar */
+.navbar-nav{
+	margin-right: 0 !important;
+	padding-right: 100px;
+}
+.navbar{
+	background-color: #074241;
+	color: #fff !important;
+}
+.nav-item a{
+	color: #fff !important;
+}
+.nav-item {
+	padding-left: 10px;
+}
+.navbar-brand{
+	color: #fff !important;
+	padding-left: 10px;
+}
+#navbar button{
+	color: #fff !important;
+}
